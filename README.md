@@ -1,16 +1,26 @@
-# Final Project Title
+# College Majors Data
 
 ## Introduction
 
-This is the introduction to my final project yadda yadda 
+The goal of this is to identify top majors in terms of income, employment, etc.
 
 ## Data Dictionary
 
 | Field | Description |
 | :--- | :--- |
-| Field 1 | Description 1 |
-| Field 2 | Description 2 |
-| Field 3 | Description 3 |
+| Major_code | Numbering from colleges for major |
+| Major | Degree Name |
+| Major_categroy | Type of Study |
+| Total | Total number of people with major |
+| Employed | Number of Employed |
+| Employed_full_time_year_round | Employed excluding Part-Time |
+| Unemployed | Number of Unemployed |
+| Unemployment_rate | Rate of Unemployment |
+| Median | Average Income |
+| P25th | Median Income for those in the Bottom 25% |
+| P75th | Median Income for those in the Top 25% |
+
+
 
 Keep writing more stuff here!
 
