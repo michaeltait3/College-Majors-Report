@@ -28,6 +28,6 @@ Keep writing more stuff here!
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
-* [Link 1](http://www.google.com) - Some cool stuff
+* [Link 1](https://www.collegeconsensus.com/features/most-in-demand-degrees/) - In demand jobs 2019!
 * [Link 2](http://www.google.com) - More cool stuff
 * [Link 3](http://www.google.com) - Even more cool stuff
