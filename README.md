@@ -10,7 +10,7 @@ The goal of this is to identify top majors in terms of income, employment, etc.
 | :--- | :--- |
 | Major_code | Numbering from colleges for major |
 | Major | Degree Name |
-| Major_categroy | Type of Study |
+| Major_category | Type of Study |
 | Total | Total number of people with major |
 | Employed | Number of Employed |
 | Employed_full_time_year_round | Employed excluding Part-Time |
@@ -28,5 +28,6 @@ Keep writing more stuff here!
 
 * [Final Report Notebook](report.ipynb)
 * [EDA Notebook](eda.ipynb)
+* [Data Source](https://www.kaggle.com/fivethirtyeight/fivethirtyeight-college-majors-dataset#all-ages.csv) - Chosen Dataset
 * [2019 JOBS](https://www.collegeconsensus.com/features/most-in-demand-degrees/) - In demand jobs 2019!
 
