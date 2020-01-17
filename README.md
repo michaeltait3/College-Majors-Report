@@ -22,7 +22,7 @@ The goal of this is to identify top majors in terms of income, employment, etc.
 
 
 
-Keep writing more stuff here!
+
 
 ## Important Links
 
